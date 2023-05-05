@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="DescriptionTv" type="id" />
+    <item name="description_edit_text" type="id" />
+    <item name="category_edit_text" type="id" />
+    <item name="CategoryTv" type="id" />
+    <item name="nameTv" type="id" />
+    <item name="textView2" type="id" />
+    <item name="CalificationTv" type="id" />
+    <item name="submit_button" type="id" />
+    <item name="qualification_edit_text" type="id" />
+    <item name="name_edit_text" type="id" />
+</resources>
