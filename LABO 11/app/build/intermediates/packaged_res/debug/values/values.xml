@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="btnColor">#5290db</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="extra_large_gap">64dp</dimen>
+    <dimen name="image_dim">150dp</dimen>
+    <dimen name="large_gap">32dp</dimen>
+    <dimen name="large_text_gap">50sp</dimen>
+    <dimen name="medium_gap">16dp</dimen>
+    <dimen name="small_gap">8dp</dimen>
+    <string name="app_name">Laboratorio11</string>
+    <string name="email">Email</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LOGIN</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="user">Usuario</string>
+    <string name="welcome">Bienvenido</string>
+    <style name="Base.Theme.Laboratorio11" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/btnColor</item>
+    </style>
+    <style name="Theme.Laboratorio11" parent="Base.Theme.Laboratorio11"/>
+</resources>

@@ -1,0 +1,53 @@
+com.example.laboratorio11.app-navigation-common-ktx-2.7.0-alpha01-0 /Users/fersand/.gradle/caches/transforms-3/18ec6c115fb39cf017382f9ae64ffc26/transformed/navigation-common-ktx-2.7.0-alpha01/res
+com.example.laboratorio11.app-lifecycle-service-2.6.1-1 /Users/fersand/.gradle/caches/transforms-3/23a505aa70cafe2762d6a206437fe70d/transformed/lifecycle-service-2.6.1/res
+com.example.laboratorio11.app-activity-ktx-1.7.1-2 /Users/fersand/.gradle/caches/transforms-3/2ab47c1370c7d2d926d8b7efa1f975f5/transformed/activity-ktx-1.7.1/res
+com.example.laboratorio11.app-lifecycle-viewmodel-savedstate-2.6.1-3 /Users/fersand/.gradle/caches/transforms-3/2cca5a5c00cc1862e3d13f157cb1e06f/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.laboratorio11.app-lifecycle-viewmodel-ktx-2.6.1-4 /Users/fersand/.gradle/caches/transforms-3/303726f840da4783f9be3f995d8cb81d/transformed/lifecycle-viewmodel-ktx-2.6.1/res
+com.example.laboratorio11.app-lifecycle-viewmodel-2.6.1-5 /Users/fersand/.gradle/caches/transforms-3/36f16eeaf8c02a186eeba6f667661790/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.laboratorio11.app-core-ktx-1.10.1-6 /Users/fersand/.gradle/caches/transforms-3/3aeb0a7c2e9a9118b2627b336ac81c8a/transformed/core-ktx-1.10.1/res
+com.example.laboratorio11.app-databinding-runtime-8.0.2-7 /Users/fersand/.gradle/caches/transforms-3/45378dd652d2a4bb91ab1ea473091fbb/transformed/databinding-runtime-8.0.2/res
+com.example.laboratorio11.app-transition-1.4.1-8 /Users/fersand/.gradle/caches/transforms-3/4c7bfe655b1fc06b26624f1d602fe4ad/transformed/transition-1.4.1/res
+com.example.laboratorio11.app-activity-1.7.1-9 /Users/fersand/.gradle/caches/transforms-3/5ce4bed51b6b8c3466ca18ede50a2a84/transformed/activity-1.7.1/res
+com.example.laboratorio11.app-lifecycle-livedata-core-ktx-2.6.1-10 /Users/fersand/.gradle/caches/transforms-3/626055faa6fbeed18f80b5f01b3dc04d/transformed/lifecycle-livedata-core-ktx-2.6.1/res
+com.example.laboratorio11.app-appcompat-1.6.1-11 /Users/fersand/.gradle/caches/transforms-3/6c4b1899526e0c0423e6a0943c285aa7/transformed/appcompat-1.6.1/res
+com.example.laboratorio11.app-constraintlayout-2.1.4-12 /Users/fersand/.gradle/caches/transforms-3/6eb48b451b9106a8f5addeaddd7138a8/transformed/constraintlayout-2.1.4/res
+com.example.laboratorio11.app-lifecycle-runtime-2.6.1-13 /Users/fersand/.gradle/caches/transforms-3/6f048ad82de7ad6208836e1428b8b9e0/transformed/lifecycle-runtime-2.6.1/res
+com.example.laboratorio11.app-emoji2-views-helper-1.2.0-14 /Users/fersand/.gradle/caches/transforms-3/74188434a9e5c553eb597034049f3b83/transformed/emoji2-views-helper-1.2.0/res
+com.example.laboratorio11.app-navigation-ui-ktx-2.7.0-alpha01-15 /Users/fersand/.gradle/caches/transforms-3/775a9502515c31f73e8400906417cfbb/transformed/navigation-ui-ktx-2.7.0-alpha01/res
+com.example.laboratorio11.app-annotation-experimental-1.3.0-16 /Users/fersand/.gradle/caches/transforms-3/77c0bd910fcd3767797e4e460288cec2/transformed/annotation-experimental-1.3.0/res
+com.example.laboratorio11.app-navigation-runtime-2.7.0-alpha01-17 /Users/fersand/.gradle/caches/transforms-3/79db5fc2d2d4cacfe29f6685bd3267de/transformed/navigation-runtime-2.7.0-alpha01/res
+com.example.laboratorio11.app-appcompat-resources-1.6.1-18 /Users/fersand/.gradle/caches/transforms-3/80bd60a600d0e8ffa7a58b2a9ca59711/transformed/appcompat-resources-1.6.1/res
+com.example.laboratorio11.app-material-1.9.0-19 /Users/fersand/.gradle/caches/transforms-3/9c7af570fb146aa35f0adfe8d1198ec6/transformed/material-1.9.0/res
+com.example.laboratorio11.app-lifecycle-process-2.6.1-20 /Users/fersand/.gradle/caches/transforms-3/9d54f30c0e2710d5a5026770ba8afda8/transformed/lifecycle-process-2.6.1/res
+com.example.laboratorio11.app-lifecycle-livedata-core-2.6.1-21 /Users/fersand/.gradle/caches/transforms-3/a09ed3cd51aead81b0359eaa77f19a10/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.laboratorio11.app-recyclerview-1.1.0-22 /Users/fersand/.gradle/caches/transforms-3/aa76f6d8e41c0147e052870a4bb83a53/transformed/recyclerview-1.1.0/res
+com.example.laboratorio11.app-lifecycle-runtime-ktx-2.6.1-23 /Users/fersand/.gradle/caches/transforms-3/b27a2edc3d704a41b26506cef53edc31/transformed/lifecycle-runtime-ktx-2.6.1/res
+com.example.laboratorio11.app-window-1.0.0-24 /Users/fersand/.gradle/caches/transforms-3/bcdd3a4fe0446c6005c0fee29bb21ca3/transformed/window-1.0.0/res
+com.example.laboratorio11.app-slidingpanelayout-1.2.0-25 /Users/fersand/.gradle/caches/transforms-3/be4c5434ad43890347bcc4f7a70d2ae5/transformed/slidingpanelayout-1.2.0/res
+com.example.laboratorio11.app-coordinatorlayout-1.1.0-26 /Users/fersand/.gradle/caches/transforms-3/be7efa96384ab836fa915126b24769fa/transformed/coordinatorlayout-1.1.0/res
+com.example.laboratorio11.app-lifecycle-livedata-2.6.1-27 /Users/fersand/.gradle/caches/transforms-3/c12545fb5a1c1213e5b12449b40989fd/transformed/lifecycle-livedata-2.6.1/res
+com.example.laboratorio11.app-navigation-runtime-ktx-2.7.0-alpha01-28 /Users/fersand/.gradle/caches/transforms-3/c17f23debcd6b37e6eaf67c4c1a20b14/transformed/navigation-runtime-ktx-2.7.0-alpha01/res
+com.example.laboratorio11.app-navigation-common-2.7.0-alpha01-29 /Users/fersand/.gradle/caches/transforms-3/c69e4de774d841b396c09635fe78f4e2/transformed/navigation-common-2.7.0-alpha01/res
+com.example.laboratorio11.app-drawerlayout-1.1.1-30 /Users/fersand/.gradle/caches/transforms-3/c97741e00ec1ebb96162e15fa2d08a7e/transformed/drawerlayout-1.1.1/res
+com.example.laboratorio11.app-emoji2-1.2.0-31 /Users/fersand/.gradle/caches/transforms-3/cc7902d00d1de2eef963f1fa5f84f464/transformed/emoji2-1.2.0/res
+com.example.laboratorio11.app-core-runtime-2.2.0-32 /Users/fersand/.gradle/caches/transforms-3/cf7e79c7b9cd1e4ca77836862a36e1d3/transformed/core-runtime-2.2.0/res
+com.example.laboratorio11.app-cardview-1.0.0-33 /Users/fersand/.gradle/caches/transforms-3/d0bd8ff74b968fa799de263f19452383/transformed/cardview-1.0.0/res
+com.example.laboratorio11.app-navigation-fragment-2.7.0-alpha01-34 /Users/fersand/.gradle/caches/transforms-3/daa1de8895b0b1b2d8484040391b58e1/transformed/navigation-fragment-2.7.0-alpha01/res
+com.example.laboratorio11.app-profileinstaller-1.3.0-35 /Users/fersand/.gradle/caches/transforms-3/e16bb337aca994d34ba490a0c2ab940d/transformed/profileinstaller-1.3.0/res
+com.example.laboratorio11.app-navigation-ui-2.7.0-alpha01-36 /Users/fersand/.gradle/caches/transforms-3/e1e6a5461bb5bf05803a2baebd318c94/transformed/navigation-ui-2.7.0-alpha01/res
+com.example.laboratorio11.app-savedstate-ktx-1.2.1-37 /Users/fersand/.gradle/caches/transforms-3/e41b2fb4876c365c9b0a37a8373c8f9c/transformed/savedstate-ktx-1.2.1/res
+com.example.laboratorio11.app-core-1.10.1-38 /Users/fersand/.gradle/caches/transforms-3/e5855da045abb1059f29ff7edf739aa7/transformed/core-1.10.1/res
+com.example.laboratorio11.app-viewpager2-1.0.0-39 /Users/fersand/.gradle/caches/transforms-3/e68b87cff2c636c1fd6db3cdf488d5c9/transformed/viewpager2-1.0.0/res
+com.example.laboratorio11.app-startup-runtime-1.1.1-40 /Users/fersand/.gradle/caches/transforms-3/ee761d18ca9526fa5fa6b52544e71c15/transformed/startup-runtime-1.1.1/res
+com.example.laboratorio11.app-databinding-adapters-8.0.2-41 /Users/fersand/.gradle/caches/transforms-3/f6670768cf8c7fad15b89ce35b79540a/transformed/databinding-adapters-8.0.2/res
+com.example.laboratorio11.app-navigation-fragment-ktx-2.7.0-alpha01-42 /Users/fersand/.gradle/caches/transforms-3/f808954193578622bdd81750ee254e72/transformed/navigation-fragment-ktx-2.7.0-alpha01/res
+com.example.laboratorio11.app-savedstate-1.2.1-43 /Users/fersand/.gradle/caches/transforms-3/f87f04bf554d664a89d9fcad3d201ede/transformed/savedstate-1.2.1/res
+com.example.laboratorio11.app-fragment-ktx-1.6.0-rc01-44 /Users/fersand/.gradle/caches/transforms-3/f9cbfcf61acfed003c4b66f32a508e5a/transformed/fragment-ktx-1.6.0-rc01/res
+com.example.laboratorio11.app-fragment-1.6.0-rc01-45 /Users/fersand/.gradle/caches/transforms-3/fcb683d3465ab1b81b0026e468537a4d/transformed/fragment-1.6.0-rc01/res
+com.example.laboratorio11.app-pngs-46 /Users/fersand/Desktop/Projects/LABO-DISPOSITIVOS-MOVILES/LABO 11/app/build/generated/res/pngs/debug
+com.example.laboratorio11.app-resValues-47 /Users/fersand/Desktop/Projects/LABO-DISPOSITIVOS-MOVILES/LABO 11/app/build/generated/res/resValues/debug
+com.example.laboratorio11.app-packageDebugResources-48 /Users/fersand/Desktop/Projects/LABO-DISPOSITIVOS-MOVILES/LABO 11/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.laboratorio11.app-packageDebugResources-49 /Users/fersand/Desktop/Projects/LABO-DISPOSITIVOS-MOVILES/LABO 11/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.laboratorio11.app-merged_res-50 /Users/fersand/Desktop/Projects/LABO-DISPOSITIVOS-MOVILES/LABO 11/app/build/intermediates/merged_res/debug
+com.example.laboratorio11.app-debug-51 /Users/fersand/Desktop/Projects/LABO-DISPOSITIVOS-MOVILES/LABO 11/app/src/debug/res
+com.example.laboratorio11.app-main-52 /Users/fersand/Desktop/Projects/LABO-DISPOSITIVOS-MOVILES/LABO 11/app/src/main/res
